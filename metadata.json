@@ -1,0 +1,8 @@
+{
+  "name": "Medical Insurance Charges Predictor",
+  "description": "Interactive machine learning application for predicting medical insurance charges and comparing regression models using the 1,338 records dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
